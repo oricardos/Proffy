@@ -31,8 +31,14 @@ function TeacherForm() {
         scheduleItems.push()
     }
 
-    function setScheduleItemValue(inde: number, field: string, value: string) {
+    function setScheduleItemValue(position: number, field: string, value: string) {
+        const newArray = scheduleItems.map((scheduleItem, index) => {
+            if (index === position) {
+                return { ...scheduleItem , [field]: value }
+            }
 
+            return scheduleItem
+        })
     }
 
     function handleCreateClass(e: FormEvent) {
