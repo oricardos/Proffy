@@ -2,9 +2,9 @@
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="logo.jpg" />
 </h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/oricardos/Proffy)
 
-<h1 align="center">Proffy</h1>
+![GitHub repo size](https://img.shields.io/github/repo-size/oricardos/Proffy) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 <p align="center">Proffy é uma plataforma de estudos, que visa a conexão entre alunos e professores para aulas online.</p>
 
