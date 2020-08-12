@@ -1,3 +1,14 @@
+logo
+
+![GitHub repo size](https://img.shields.io/github/repo-size/oricardos/Proffy)
+
+<p align="center">Proffy é uma plataforma de estudos, que visa a conexão entre alunos e professores para aulas online.</p>
+
+
+<h1 align="center">Proffy</h1>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
