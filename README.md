@@ -1,4 +1,6 @@
-logo
+<h1 align="center">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="logo.jpg" />
+</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/oricardos/Proffy)
 
@@ -28,3 +30,6 @@ You will also see any lint errors in the console.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## License
+MIT License
