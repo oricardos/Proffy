@@ -8,7 +8,8 @@
 
 <p align="center">Proffy é uma plataforma de estudos, que visa a conexão entre alunos e professores para aulas online.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
 ## Available Scripts
 
