@@ -8,6 +8,8 @@
 
 <p align="center">Proffy é uma plataforma de estudos, que visa a conexão entre alunos e professores para aulas online.</p>
 
+![Proffy](https://github.com/oricardos/Proffy/blob/master/screenshot.png)
+
 
 **This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
